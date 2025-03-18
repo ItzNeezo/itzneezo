@@ -4,7 +4,6 @@ Here are some informations about me :
 - 🇫🇷 I'm a french person who's 18 y.o, I'm B2+ in English too.
 - 🔭 I’m currently working on a discord bot in python
 - 🌱 I’m currently learning shell and python at school
-- 💬 Ask me about ...
 - 📫 How to reach me: mail this adress : sideheat1628@gmail.com or add me on discord : side_heat
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Me (I'm fun I promise)
